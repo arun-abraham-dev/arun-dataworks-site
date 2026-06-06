@@ -1,19 +1,20 @@
 # Arun DataWorks Website
 
-A simple static landing page for Arun DataWorks.
+Static website for Arun DataWorks.
 
-## Service
+## Positioning
 
-Candidate Excel/CSV cleanup for recruitment teams.
+Excel/CSV data cleanup for business teams, with industry-specific workflow pages.
 
-## Current stage
+## Pages
 
-Stage 1 website structure with core sections and starter styling.
+- Home service hub
+- Recruitment Data Cleanup
+- CA / Accounting Data Cleanup
+- Ecommerce / Retail CSV Cleanup
+- Lead List / CRM Cleanup
+- General Excel/CSV Cleanup
 
-## Planned improvements
+## Live site
 
-- Add real logo asset
-- Add sample workbook screenshots
-- Refine copy after outreach feedback
-- Connect to GitHub Pages
-- Connect custom domain: arundataworks.in
+https://arundataworks.in
